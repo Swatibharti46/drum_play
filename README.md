@@ -20,7 +20,7 @@ Deployed Link : **https://drum-play-rosy.vercel.app/**
 
 # 📸 Preview
 
-![Drum Kit Screenshot](images/demo.png)
+![Drum Kit Screenshot](demo.png)
 
 ---
 
